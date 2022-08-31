@@ -7,6 +7,5 @@
 ## Results
 
 ### The dataframe showing the output of the different parameters per city type is shown below:
-
 ![summary_df.png](/Resources/summary_df.png)
 
