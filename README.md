@@ -9,3 +9,4 @@
 ### The dataframe showing the output of the different parameters per city type is shown below:
 ![summary_df.png](/Resources/summary_df.png)
 
+### Looking at this data it is obvious this ride sharing service is used the most in urban cities, the least in rural areas, and suburban cities seem to be right in the middle. The total rides for urban cities is 13 times larger than the total rides for rural areas. The number of drivers is 30 times higher in urban cities than rural areas and 6 times larger than the suburban cities. The total fares for urban cities is 9 times higher than rural areas and twice as high as in suburban areas. The average fare per ride is relatively close together, though it is $10 lower in urban areas than rural areas and $5 lower in urban cities than rural areas. The average fare per driver is much lower in urban areas than in rural or suburban. 
