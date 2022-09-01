@@ -12,6 +12,7 @@
  Looking at this data it is obvious this ride sharing service is used the most in urban cities, the least in rural areas, and suburban cities seem to be right in the middle. The total rides for urban cities is 13 times larger than the total rides for rural areas. The number of drivers is 30 times higher in urban cities than rural areas and 6 times larger than the suburban cities. The total fares for urban cities is 9 times higher than rural areas and twice as high as in suburban areas. The average fare per ride is relatively close together, though it is $10 lower in urban areas than rural areas and $5 lower in urban cities than rural areas. The average fare per driver is much lower in urban areas than in rural or suburban. The multiple line graph showing the total fares per city type:
  
  ![total_fare_by_city_type.png](/Resources/total_fare_by_city_type.png)
+NOTE: My line graph is showing a difference in the data output just for the month of April compared to the graph shown in the instructions for the challenge. I met with a tutor and tried to debug the code but it does not seem to be the code itself, maybe there is a discrepancy in the data for April due to an update or some other change?
 
 ## Conclusion
 
