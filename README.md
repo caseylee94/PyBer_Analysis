@@ -2,8 +2,8 @@
 
 ## Overview
 
- The purpose of this project is to compare the ride sharing data for different types of cities - rural, suburban, and urban to see how different parameters vary for each city type. To compare multiple parameters, a Dataframe was created to show the results side by side. Then a multiple line graph was created to further analyze the results of the total weekly fares for each type of city. Finally, a written summary of how the data differs by city type and how those differences can be used by decision-makers at PyBer finishes this project.
-
+ The purpose of this project is to compare the ride sharing data for different types of cities - rural, suburban, and urban to see how different parameters vary for each city type. To compare multiple parameters, a Dataframe was created to show the results side by side. Then a multiple line graph was created to further analyze the results of the total weekly fares for each type of city. Finally, a written summary of how the data compares for each city type and recommendations for the company moving forward based on this data are made.
+ 
 ## Results
 
  The dataframe showing the output of the different parameters per city type is shown below:
@@ -17,5 +17,8 @@ NOTE: My line graph is showing a difference in the data output just for the mont
 
 ## Conclusion
 
+ 
+ ###
  Urban cities are where ride sharing services are used the most, which makes sense given the high density population and general difficulty involved in driving, parking, and having a car in cities. Also, given the higher population it is likely that there would be more drivers and more competition amongst drivers, which is likely driving down the average fare per driver. This is probably not an issue for the company, the fees are lower in urban areas but given the high density and popularity of using this service urban areas are definitely driving the profits and having a lower average fare will encourage even more riders. 
- The company could focus more resources on lowering costs and advertising to more potential drivers to help drive down the high costs of fares in rural areas to encourage riders. Generally in rural and suburban areas the rides will be longer as far as mileage, so a high fare could be discouraging riders. An analysis of fares per mile for each city type could give some interesting insights into how this is affecting the total costs for the riders. ALso, additional advertising to riders in suburban and rural areas, particularly pointing out the benefits surrounding drinking nights out, could help raise awareness and remind riders that this ride sharing can be a great, low cost, safe option for getting home.
+###
+The company could focus more resources on lowering costs and advertising to more potential drivers to help drive down the high costs of fares in rural areas to encourage riders. Generally in rural and suburban areas the rides will be longer as far as mileage, so a high fare could be discouraging riders. An analysis of fares per mile for each city type could give some interesting insights into how this is affecting the total costs for the riders. Also, additional advertising to riders in suburban and rural areas, particularly pointing out the benefits surrounding drinking nights out, could help raise awareness and remind riders that this ride sharing can be a great, low cost, safe option for getting home.
